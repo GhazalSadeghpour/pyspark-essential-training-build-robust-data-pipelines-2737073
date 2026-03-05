@@ -27,3 +27,5 @@ Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learn
 [lil-course-url]: https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines
 [lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D560DAQGsKtO4wEvWjw/learning-public-crop_675_1200/B56ZfrMgDbHQAY-/0/1751997613067?e=2147483647&v=beta&t=5401mig8RZRgtYV9iIGIkZRTFfk3zrwvzDtX7kGTPPo
 
+<img width="1332" height="940" alt="image" src="https://github.com/user-attachments/assets/8fd77d1e-24b6-4176-8ad3-06482db8eae0" />
+
